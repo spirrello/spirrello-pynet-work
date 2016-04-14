@@ -1,0 +1,5 @@
+- beach
+- abc
+- core: n9516
+  firewall: iptables
+  router: asr1001
